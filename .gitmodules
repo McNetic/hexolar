@@ -1,0 +1,4 @@
+[submodule "node_modules/npm"]
+	path = node_modules/npm
+	url = https://github.com/npm/npm
+	branch = v3.10.5
