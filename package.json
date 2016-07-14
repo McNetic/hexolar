@@ -1,0 +1,8 @@
+{
+  "name": "hexolar",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "fs-extra": "0.x"
+  }
+}
