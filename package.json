@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "fs-extra": "0.x"
+  },
+  "devDependencies": {
+    "fs-extra", "0.x",
+    "rimraf", "latest"
   }
 }

@@ -12,4 +12,6 @@ var npm = function(command, cwd) {
   return exec(npmPath, command.split(' '), opts);
 }
 
+console.log(npm('install --no-bin-links fs-extra rimraf'),toString()); 
 console.log(npm('install', 'hexo-bin').toString());
+
